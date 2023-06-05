@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krs98&layout=compact&theme=aura_dark&count_private=true&hide_border=true&hide=php,java,html,css,javascript,c,c%23&langs_count=4&bg_color=0d1117" alt="Top langs">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krs98&layout=compact&theme=aura_dark&count_private=true&hide_border=true&hide=php,java,html,css,javascript,c,c%23&langs_count=4&bg_color=0d1117" alt="Top langs">
+  </a>
 </div>
