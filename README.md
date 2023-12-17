@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <h2 align="center">Stats</h2>
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats-nzq4zz9bt-krs98.vercel.app/api/top-langs/?username=krs98&layout=compact&theme=aura_dark&count_private=true&hide_border=true&hide=php,java,html,css,javascript,c,c%23&langs_count=4&bg_color=0d1117" alt="Top langs">
+    <img src="https://github-readme-stats-pf8c.vercel.app/api/top-langs/?layout=compact&bg_color=0d1117&count_private=true&username=krs98&hide=php%2Cjava%2Chtml%2Ccss%2Cjavascript%2Cc%2Cc%23&hide_border=true&langs_count=4&theme=aura_dark" alt="Top langs">
   </a>
 </div>
